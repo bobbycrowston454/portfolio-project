@@ -24,6 +24,46 @@ img {
   float: right;
 }
 
+.orl li{
+  list-style-type: lower-roman;
+  border: solid;
+  border-width: thin;
+  border-radius: 5px;
+}
+
 body {
   font-family:sans-serif;
+  background-image: url(http://bgfons.com/upload/paper_texture329.jpg);
+}
+
+h1 {
+  margin-left: 30px;
+}
+
+.whole {
+  margin-left: 15px;
+}
+
+ul li {
+  border: solid;
+  border-width: thin;
+  border-radius: 5px;
+  max-width: inherit;
+  margin-right: 10px;
+}
+
+.jumbotron {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+.par {
+  border: solid;
+  border-width: thin;
+  border-radius: 5px;
+  max-width: inherit;
+  padding-bottom: 5px;
+  margin-bottom: 40px;
+  margin-right: 10px;
 }
