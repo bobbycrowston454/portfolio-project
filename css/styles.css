@@ -1,0 +1,24 @@
+img {
+  height: auto;
+  width: auto;
+  max-width: 400px;
+  max-height: 400px;
+  float:right;
+}
+
+.topleft {
+  float: left;
+  list-style-type: none;
+  padding: inherit;
+  color: white;
+  padding: 10px;
+}
+
+
+.topbar {
+  float: right;
+}
+
+body {
+  font-family:sans-serif;
+}
