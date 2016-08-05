@@ -4,6 +4,8 @@ img {
   max-width: 400px;
   max-height: 400px;
   float:right;
+  border: solid;
+  border-radius: 25px;
 }
 
 .topleft {
@@ -19,7 +21,6 @@ img {
   padding-right: 5px
 }
 
-
 .topbar {
   float: right;
 }
@@ -31,6 +32,8 @@ img {
   border-radius: 5px;
   font-family: serif;;
   font-weight: bolder;
+  background-color: #848484;
+  padding: 3px;
 }
 
 body {
@@ -52,12 +55,15 @@ ul li {
   border-radius: 5px;
   max-width: inherit;
   margin-right: 10px;
+  background-color: #848484;
+  padding: 3px;
 }
 
 .jumbotron {
   padding-top: 25px;
   padding-bottom: 25px;
   text-align: center;
+  background-color: #c1d3f0;
 }
 
 .par {
@@ -65,14 +71,21 @@ ul li {
   border-width: thin;
   border-radius: 5px;
   max-width: inherit;
-  padding-bottom: 5px;
+  padding: 5px;
   margin-bottom: 40px;
   margin-right: 10px;
   font-family: serif;
   font-weight: bolder;
+  background-color: #848484;
+  margin-left: 25px;
 }
 
 .uno {
   font-family: serif;
   font-weight: bolder;
+
+}
+
+address {
+  margin-left: 15px;
 }
