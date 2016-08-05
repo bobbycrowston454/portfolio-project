@@ -29,6 +29,8 @@ img {
   border: solid;
   border-width: thin;
   border-radius: 5px;
+  font-family: serif;;
+  font-weight: bolder;
 }
 
 body {
@@ -66,4 +68,11 @@ ul li {
   padding-bottom: 5px;
   margin-bottom: 40px;
   margin-right: 10px;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+.uno {
+  font-family: serif;
+  font-weight: bolder;
 }
