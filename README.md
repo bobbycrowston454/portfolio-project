@@ -16,6 +16,7 @@ _This site is a home page for my portfolio. It is the first independent project 
 * _use git clone and paste that link after it to clone the repository_
 * _open the folder it provides_
 * _open the HTML folder inside_
+* _https://bobbycrowston454.github.io/portfolio-project/_
 
 ## Known Bugs
 
